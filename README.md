@@ -1,4 +1,4 @@
-Campus Lost and Found Portal
+Campus Lost and Found Portal.
 
 A desktop-based Campus Lost and Found Portal developed using JavaFX, Java Servlets, JDBC and MySQL. The application helps students report lost or found belongings, search for items, submit claims and track their reports. An administrator can manage reported items and process claims.
 
